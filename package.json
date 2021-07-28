@@ -1,0 +1,23 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "description": "Ejercicio 1 de la meeting 14",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francov11/ejercicio-1.git"
+  },
+  "author": "Franco Velazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francov11/ejercicio-1/issues"
+  },
+  "homepage": "https://github.com/Francov11/ejercicio-1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
